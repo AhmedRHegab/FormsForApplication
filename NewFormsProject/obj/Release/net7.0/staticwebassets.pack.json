@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\NewFormsProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NewFormsProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\01e0f388-2554-442d-b9c4-a768e76690cc.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\01e0f388-2554-442d-b9c4-a768e76690cc.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\0943fbfd-e251-49d4-b164-bdd7e5ddf38b.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\0943fbfd-e251-49d4-b164-bdd7e5ddf38b.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\0e07a5ea-0781-4379-927c-b3226e2ed94d.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\0e07a5ea-0781-4379-927c-b3226e2ed94d.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\137b0a80-793e-4544-8025-394f90e35ddf.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\137b0a80-793e-4544-8025-394f90e35ddf.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\17eba604-69a1-4d64-b52d-e7c376604c66.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\17eba604-69a1-4d64-b52d-e7c376604c66.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\212ad13e-49a8-4d23-9494-cf57088ae93b.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\212ad13e-49a8-4d23-9494-cf57088ae93b.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\2ea97cdc-f14f-4717-abf1-5678edadbfa5.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\2ea97cdc-f14f-4717-abf1-5678edadbfa5.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\3a85b131-17ad-4f6c-991b-09b7af0f4922.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\3a85b131-17ad-4f6c-991b-09b7af0f4922.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\57afb028-ef82-4fbf-90f2-d947e9d4e634.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\57afb028-ef82-4fbf-90f2-d947e9d4e634.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\58ea4e88-0ec3-48bc-9806-8390d7569a0e.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\58ea4e88-0ec3-48bc-9806-8390d7569a0e.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\65049107-d86a-40da-8311-a0e951af0da9.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\65049107-d86a-40da-8311-a0e951af0da9.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\6ac90908-a604-4aa4-bc9e-002db685e31d.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\6ac90908-a604-4aa4-bc9e-002db685e31d.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\7f0aa395-e9e2-468c-ad33-09e36a6d4e4d.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\7f0aa395-e9e2-468c-ad33-09e36a6d4e4d.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\8960b240-05e5-4667-bf79-1bf5f6600c74.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\8960b240-05e5-4667-bf79-1bf5f6600c74.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\97fa5165-94a4-4f26-b1dd-230273088575.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\97fa5165-94a4-4f26-b1dd-230273088575.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\9927be4c-222e-4b16-b80e-cc643af24a6d.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\9927be4c-222e-4b16-b80e-cc643af24a6d.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\a1d0049a-5ad4-444e-96c8-8b13dd2eb46d.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\a1d0049a-5ad4-444e-96c8-8b13dd2eb46d.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\a761e8c5-7220-4c8d-acbb-40f55cba8b75.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\a761e8c5-7220-4c8d-acbb-40f55cba8b75.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\bf44fd42-ce8c-4af2-a837-b6f3b29d3bb5.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\bf44fd42-ce8c-4af2-a837-b6f3b29d3bb5.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\d97cb4f2-4b46-4de5-885e-245a05c93594.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\d97cb4f2-4b46-4de5-885e-245a05c93594.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\e2e9745f-ad68-443e-a40a-f250aab3e8aa.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\e2e9745f-ad68-443e-a40a-f250aab3e8aa.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\ebdb0e38-5e0e-403d-90b9-5618d28debae.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\ebdb0e38-5e0e-403d-90b9-5618d28debae.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\ecbd4e86-92f8-4c8e-89af-61847ce7432b.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\ecbd4e86-92f8-4c8e-89af-61847ce7432b.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\Files\\CVs\\f5dd172d-c76b-4f5e-9cce-47e5e3e1ca5b.pdf",
+      "PackagePath": "staticwebassets\\Files\\CVs\\f5dd172d-c76b-4f5e-9cce-47e5e3e1ca5b.pdf"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\inetpub\\wwwroot\\NewFormsProject\\NewFormsProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.NewFormsProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.NewFormsProject.props",
+      "PackagePath": "build\\NewFormsProject.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.NewFormsProject.props",
+      "PackagePath": "buildMultiTargeting\\NewFormsProject.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.NewFormsProject.props",
+      "PackagePath": "buildTransitive\\NewFormsProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
